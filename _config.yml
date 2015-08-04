@@ -22,8 +22,8 @@ color:
     - '#9eb8c5'
     - '#876e7c'
   brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.4375
+  lightness: 0.625
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose:
   - name: follow
