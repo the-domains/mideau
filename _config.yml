@@ -1,4 +1,4 @@
-name: null
+name: Mideau
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.65136
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#434343'
-    - '#97ced5'
-    - '#606060'
-    - '#fafafa'
-    - '#919191'
-  brandStrength: 0
+    - '#f8c8fa'
+    - '#1d91e8'
+    - '#126edb'
+    - '#e8b1ce'
+    - '#da9182'
+  brandStrength: 1
   lightness: 0.6875
   saturation: 0.4375
   rhythmicContrast: 0.5
