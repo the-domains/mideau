@@ -1,7 +1,7 @@
 name: Mideau
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74325
+layout_spectrum: 0.46487
+typography_spectrum: 0.40542
 cta:
   domain: null
   bucket: null
@@ -21,9 +21,9 @@ color:
     - '#4c7ca0'
     - '#9eb8c5'
     - '#876e7c'
-  brandStrength: 0.1875
-  lightness: 0.625
-  saturation: 0.375
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.8125
   rhythmicContrast: 0.5
 purpose:
   - name: follow
